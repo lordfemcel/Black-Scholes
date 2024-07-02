@@ -1,2 +1,2 @@
-# Black-Scholes
+# Project on credit risk management 
 hmm
